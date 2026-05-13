@@ -1,2 +1,3 @@
 algebra basics
 New formula added
+New integration formula added
