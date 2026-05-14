@@ -1,4 +1,4 @@
 physics notes
 hall effect 
 photo diode
-divergence 
+
