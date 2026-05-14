@@ -1,1 +1,3 @@
 calculus formula
+integration
+differentiation
